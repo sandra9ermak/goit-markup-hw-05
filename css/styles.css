@@ -249,7 +249,7 @@ body {
   margin: auto;
 
   transition-property: background;
-  transition-duration: 500ms;
+  transition-duration: 250ms;
 }
 
 .studio-button:hover,
